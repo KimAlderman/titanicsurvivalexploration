@@ -1,4 +1,4 @@
-# titanicsurvivalexploration
+# Titanic Survival Exploration
 Udacity Machine Learning Nanodegree project: exploring Titanic survival data
 
 This was my first project in my Machine Learning Nanodegree at Udacity. Tools and techniques used in this project include:
